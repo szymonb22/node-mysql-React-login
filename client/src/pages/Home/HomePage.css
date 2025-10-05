@@ -1,0 +1,17 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+  
+}
+h1{
+    margin-left: 2%;
+}
+button{
+    margin-top: 1%;
+    margin-right: 5%;
+    width: 200px;
+    height: 50px;
+    color: white;
+    background: aqua;
+    border-radius: 20px;
+}
