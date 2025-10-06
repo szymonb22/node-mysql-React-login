@@ -1,0 +1,7 @@
+For data storing i used mysql database;
+For data validation on server side i used express-validator library.
+It check if is email valid and password lenth is longer than 6 characters.
+For hashing password i used bcrypt library.
+For generating token i used jsonwebtoken library. Token expires in 30min.
+On frontend I did validation for email and password, 
+It check if is email valid and password lenth is longer than 6 characters.
